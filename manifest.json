@@ -1,0 +1,25 @@
+{
+  "short_name": "NewChat",
+  "name": "NewChat",
+  "version": "0.1.1",
+  "description": "Iniciar chat sin guardar número",
+  "author": "Alejandro Ceo",
+  "github": "https://github.com/alejandroceo",
+  "icons": [
+    {
+      "src": "/images/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./app.html",
+  "display": "standalone",
+  "theme_color": "#008080",
+  "background_color": "#008080"
+}
